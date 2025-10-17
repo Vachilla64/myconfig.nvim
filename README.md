@@ -1,6 +1,6 @@
 # Neovim is great!
 
-I use nvim btw, and you should tooV
+I use nvim btw, and you should too!
 
 ## Attribution
 
